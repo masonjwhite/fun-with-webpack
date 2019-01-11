@@ -1,0 +1,28 @@
+{
+  "name": "fun-with-webpack-react-and-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "webpack-dev-server --open --mode development",
+    "build": "webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.28.1",
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.1.14",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.2.2",
+    "@types/react": "^16.7.18",
+    "@types/react-dom": "^16.0.11",
+    "awesome-typescript-loader": "^5.2.1"
+  }
+}
