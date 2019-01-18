@@ -1,4 +1,4 @@
-import { excitementLevel } from './add';
+import { excitementLevel } from './excitementLevel';
 
 function component() {
 	const element = document.createElement('p');
