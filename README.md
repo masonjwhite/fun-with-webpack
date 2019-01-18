@@ -9,7 +9,7 @@ I've been constantly using "create-react-app" for most of my React coding life, 
 
 ## Structure
 
-Each directory is a different "project" (e.g. containing its own Webpack configuration, dev server and Babel configuration).
+Each directory is a different "project" (e.g. containing its own Webpack configuration, Webpack dev-server and Babel configuration).
 
 This project is not intended to be a boilerplate, but rather a learning tool for setting up Webpack, Babel and TypeScript projects from scratch.
 
