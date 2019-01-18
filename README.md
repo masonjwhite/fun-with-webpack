@@ -5,7 +5,7 @@
 
 This repository is a part of my "fun with" series. Each and every day I challenge myself to learn something new. Once I feel like I understand a subject well enough to move onto the next one, I build a small proof of concept or example so that I can reference it in the future. It also has the double benefit of serving as a great learning resource for my Bootcamp students.
 
-I've been constantly using "create-react-app" for most of my React coding life, but I always wanted to learn how to set up a React project with Webpack and Babel from scratch! For fun and curiosity's sake I also added in TypeScript. 
+I've been constantly using "create-react-app" for most of my React coding life, but I always wanted to learn how to set up a React project with Webpack and Babel from scratch! For fun and curiosity's sake (and to setup my next learning topic) I also added in TypeScript. 
 
 ## Structure
 
